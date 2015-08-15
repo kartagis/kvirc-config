@@ -1,0 +1,11 @@
+# KVIrc configuration file
+[hellyeah!*@*]
+IgnoreFlags=63
+Group=
+IgnoreEnabled=true
+[%23Group%20Default]
+[hellyeah]
+mask_0=hellyeah!~kvirc@*
+IgnoreFlags=63
+Group=
+IgnoreEnabled=false
