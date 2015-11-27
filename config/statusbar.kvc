@@ -1,3 +1,4 @@
 # KVIrc configuration file
 [Applets]
-Count=0
+Count=1
+Applet0_InternalName=lagindicator

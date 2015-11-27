@@ -9,3 +9,9 @@ mask_0=hellyeah!~kvirc@*
 IgnoreFlags=63
 Group=
 IgnoreEnabled=false
+[odegard]
+prop_notify=odegard
+mask_0=odegard!*@*
+IgnoreFlags=0
+Group=
+IgnoreEnabled=false

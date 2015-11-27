@@ -54,6 +54,11 @@ Buffer0=if($0%20!=%20"")%20popup.show%20channel%20$0;
 Name0=default
 NHandlers=1
 Enabled0=true
+[OnAccelKeyPressed]
+Buffer0=switch%20($0)%20{%0acase%20(F2)%20if($mediaplayer.nowPlaying)%20{%20me%20is%20now%20playing%20$mediaplayer.nowPlaying;%20}%0a}
+Name0=default
+NHandlers=1
+Enabled0=true
 [OnURLLinkClick]
 Buffer0=openurl%20$0
 Name0=default
