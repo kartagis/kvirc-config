@@ -35,7 +35,7 @@ boolIdentdEnableIPv6=false
 boolEnableQueryTracing=true
 boolDisableQuietBanListRequestOnJoin=true
 boolUNUSED:UseSaslIfAvailable=true
-stringPartMessage=To%20beer%20or%20not%20to%20beer,%20that's%20the%20question
+stringPartMessage=I'll%20be%20back...or%20not
 uintNotifyListUserhostDelayTimeInSecs=6
 boolServerRepliesToActiveWindow=true
 stringIdentdUser=kvirc
@@ -182,7 +182,7 @@ stringLastImageDialogPath=
 stringCtcpUserInfoLocation=
 stringLogsPath=local:///log
 [None]
-uintTotalConnectionTime=12420496
+uintTotalConnectionTime=15884995
 uintCustomCursorWidth=1
 uintToolBarButtonStyle=0
 boolEnableVisualEffects=true
@@ -454,9 +454,9 @@ msgtypeIcqMessageSent=129,5,100,1,1
 msgtypeUserDeOp=175,3,100,1,1
 [Recent]
 stringlistRecentIrcUrls=
-stringlistRecentChannels=#osx86:ext3,\[ITEM],#myhack:ext3,\[ITEM],#hackintosh:ext3,\[ITEM],#kvirc:freenode,\[ITEM],##English:freenode,\[ITEM],##espanol:freenode,\[ITEM],##javascript:freenode,\[ITEM],##linux:freenode,\[ITEM],#bash:freenode,\[ITEM],#css:freenode,\[ITEM],#drupal:freenode,\[ITEM],#drupal-commerce:freenode,\[ITEM],#drupal-consultants:freenode,\[ITEM],#drupal-support:freenode,\[ITEM],#drupal-tr:freenode,\[ITEM],#f0und:freenode,\[ITEM],#git:freenode,\[ITEM],#jquery:freenode,\[ITEM],#linguistics:freenode,\[ITEM],#phonegap:freenode,\[ITEM],#ubuntu:freenode,\[ITEM],#ubuntu-tr:freenode,\[ITEM],#vim:freenode,\[ITEM],#wikipedia-tr:freenode,\[ITEM],#nginx:freenode,\[ITEM],#web:freenode,\[ITEM],#elementary:freenode,\[ITEM],#drupal-contribute:freenode,\[ITEM],##networking:freenode,\[ITEM],#httpd:freenode,\[ITEM],#python:freenode,\[ITEM],##php:freenode,\[ITEM],#html:freenode,\[ITEM],#android:freenode,\[ITEM],#firefox:freenode,\[ITEM],#freenode:freenode,\[ITEM],#mysql:freenode,\[ITEM],#web-social:freenode,\[ITEM],#cordova:freenode,\[ITEM],#wordpress:freenode,\[ITEM],##namespace:freenode,\[ITEM],##bootstrap:freenode,\[ITEM],##webdev:freenode,\[ITEM],#KVIrc:freenode,\[ITEM],#android-dev:freenode,\[ITEM],#github:freenode,\[ITEM],#drupal-drupalgap:freenode,\[ITEM],#limnoria:freenode,\[ITEM],#drupal-infrastructure:freenode,\[ITEM],#drupal-es:freenode,\[ITEM],#drush:freenode,\[ITEM],#freelance:freenode,\[ITEM],#vbox:freenode,\[ITEM],#cairo-dock:freenode,\[ITEM],#ffmpeg:freenode,\[ITEM],#avconv:freenode,\[ITEM],#ubuntu+1:freenode,\[ITEM],#canada:DALnet,\[ITEM],#eggdrop:DALnet,\[ITEM],#turkey:DALnet
+stringlistRecentChannels=#osx86:ext3,\[ITEM],#myhack:ext3,\[ITEM],#hackintosh:ext3,\[ITEM],#kvirc:freenode,\[ITEM],##English:freenode,\[ITEM],##espanol:freenode,\[ITEM],##javascript:freenode,\[ITEM],##linux:freenode,\[ITEM],#bash:freenode,\[ITEM],#css:freenode,\[ITEM],#drupal:freenode,\[ITEM],#drupal-commerce:freenode,\[ITEM],#drupal-consultants:freenode,\[ITEM],#drupal-support:freenode,\[ITEM],#drupal-tr:freenode,\[ITEM],#f0und:freenode,\[ITEM],#git:freenode,\[ITEM],#jquery:freenode,\[ITEM],#linguistics:freenode,\[ITEM],#phonegap:freenode,\[ITEM],#ubuntu:freenode,\[ITEM],#ubuntu-tr:freenode,\[ITEM],#vim:freenode,\[ITEM],#wikipedia-tr:freenode,\[ITEM],#nginx:freenode,\[ITEM],#web:freenode,\[ITEM],#elementary:freenode,\[ITEM],#drupal-contribute:freenode,\[ITEM],##networking:freenode,\[ITEM],#httpd:freenode,\[ITEM],#python:freenode,\[ITEM],##php:freenode,\[ITEM],#html:freenode,\[ITEM],#android:freenode,\[ITEM],#firefox:freenode,\[ITEM],#freenode:freenode,\[ITEM],#mysql:freenode,\[ITEM],#web-social:freenode,\[ITEM],#cordova:freenode,\[ITEM],#wordpress:freenode,\[ITEM],##namespace:freenode,\[ITEM],##bootstrap:freenode,\[ITEM],##webdev:freenode,\[ITEM],#KVIrc:freenode,\[ITEM],#android-dev:freenode,\[ITEM],#github:freenode,\[ITEM],#drupal-drupalgap:freenode,\[ITEM],#limnoria:freenode,\[ITEM],#drupal-infrastructure:freenode,\[ITEM],#drupal-es:freenode,\[ITEM],#drush:freenode,\[ITEM],#freelance:freenode,\[ITEM],#vbox:freenode,\[ITEM],#cairo-dock:freenode,\[ITEM],#ffmpeg:freenode,\[ITEM],#avconv:freenode,\[ITEM],#ubuntu+1:freenode,\[ITEM],#regex:freenode,\[ITEM],##javascript.:freenode,\[ITEM],#phpmyadmin:freenode,\[ITEM],#ubuntu-server:freenode,\[ITEM],#centos:freenode,\[ITEM],#canada:DALnet,\[ITEM],#eggdrop:DALnet,\[ITEM],#turkey:DALnet
 stringlistRecentServers=irc://bnc.webcinizim.com:65535/,\[ITEM],irc://irc.ext3.net/,\[ITEM],ircs://cordova.irc.slack.com/
-stringlistRecentNicknames=Kabuto,\[ITEM],Kartagis,\[ITEM],zline,\[ITEM],Guest59938,\[ITEM],suigeneris,\[ITEM],viktor,\[ITEM],irc.tinyspeck.com
+stringlistRecentNicknames=Kabuto,\[ITEM],Kartagis,\[ITEM],suigeneris,\[ITEM],Guest24804,\[ITEM],zline,\[ITEM],Guest59938,\[ITEM],viktor,\[ITEM],irc.tinyspeck.com
 [IrcView]
 boolShowAvatarsInUserlist=true
 boolShowUserListStatisticLabel=true

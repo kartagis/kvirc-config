@@ -1,4 +1,8 @@
 # KVIrc configuration file
 [Applets]
-Count=1
+Applet1_Utc=false
+Count=2
 Applet0_InternalName=lagindicator
+Applet1_24h=true
+Applet1_InternalName=clock
+Applet1_Format=0
